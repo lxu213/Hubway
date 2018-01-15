@@ -5,20 +5,20 @@ This project aims to predict the number of daily rides taken each day using Hubw
 Hubway ridership trends depend upon time of day, time of week, seasonality, commute patterns, weather, and holidays. The study begins with scraping relevant ridership datasets from the Hubway Challenge website, the Hubway Tracker, and climatological data for the months January to December of 2016. After some exploratory data analyses, this study explores three predictive algorithms: multiple linear regression, random forest ensemble, and gradient boosting. 
 
 ## Project Table of Contents
-#### 1. Project Introduction
+#### 1. Introduction
 #### 2. Dataset Overview
-	- Trips and Station Data
-	- Full and Empty Outage Data
-	- Bike and Dock Availaility
-	- Weather Data
+#####	- Trips and Station Data
+#####	- Full and Empty Outage Data
+#####	- Bike and Dock Availaility
+#####	- Weather Data
 #### 3. Exploratory Data Analysis
-	- Outlier Analysis
- 	- Correlation Analysis
-	- Data Visualization
+#####	- Outlier Analysis
+##### 	- Correlation Analysis
+#####	- Data Visualization
 #### 4. Prediction
-	- Multiple Regression
-	- Random Forest
-	- Gradient Boosting
+#####	- Multiple Regression
+#####	- Random Forest
+#####	- Gradient Boosting
 #### 5. Performance
 
-## [Notebook Link](https://github.com/lxu213/hubway-bikeshare-prediction/blob/master/Hubway_Bikeshare_Prediction.ipynb)
+## [Hubway Bikeshare Prediction ßNotebook](https://github.com/lxu213/hubway-bikeshare-prediction/blob/master/Hubway_Bikeshare_Prediction.ipynb)
