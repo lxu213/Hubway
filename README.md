@@ -10,7 +10,7 @@ Hubway ridership trends depend upon time of day, time of week, seasonality, comm
 * Dataset Overview
 	* Trips and Station Data
 	* Full and Empty Outage Data
-	* Bike and Dock Availaility
+	* Bike and Dock Availability
 	* Weather Data
 * Exploratory Data Analysis
 	* Outlier Analysis
